@@ -1,2 +1,2 @@
 # leetcode-dynamic-programming
-Solutions to Dynamic Programming questions on LeetCode
+Solutions to [LeetCode Dynamic Programming]("https://leetcode.com/studyplan/dynamic-programming/")
